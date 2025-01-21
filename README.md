@@ -15,6 +15,7 @@
 <br>
  
 ### Pra conteúdo sobre programação e game dev me siga nas redes sociais
+### Meu discord: Rafael Portugal#0025 - rafael_portugal
  
 <div> 
   <a href="https://www.youtube.com/@playlightgames8487" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
